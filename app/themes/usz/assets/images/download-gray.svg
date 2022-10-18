@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>usz-icon-download-blue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="usz-icon-download-blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icons/download/color" transform="translate(-1.000000, -1.000000)" stroke="#545454">
+            <g id="Group" transform="translate(2.000000, 2.000000)">
+                <path d="M15.8125,21.3125 C18.8494167,21.3125 21.3125,18.8503333 21.3125,15.8125 C21.3125,12.7755833 18.8494167,10.3125 15.8125,10.3125 C12.7755833,10.3125 10.3125,12.7755833 10.3125,15.8125 C10.3125,18.8503333 12.7755833,21.3125 15.8125,21.3125 Z" id="Stroke-1" stroke-width="1.5"></path>
+                <line x1="15.8125" y1="13.0625" x2="15.8125" y2="18.5625" id="Stroke-3" stroke-width="1.5"></line>
+                <line x1="15.8125" y1="18.5625" x2="17.875" y2="16.5" id="Stroke-5" stroke-width="1.5"></line>
+                <line x1="15.8125" y1="18.5625" x2="13.75" y2="16.5" id="Stroke-7" stroke-width="1.5"></line>
+                <path d="M7.5625,18.5625 L2.0625,18.5625 C1.30258333,18.5625 0.6875,17.9474167 0.6875,17.1875 L0.6875,2.0625 C0.6875,1.30258333 1.30258333,0.6875 2.0625,0.6875 L11.80575,0.6875 C12.1696667,0.6875 12.5198333,0.832333333 12.7774167,1.08991667 L15.4100833,3.72258333 C15.6676667,3.98016667 15.8125,4.33033333 15.8125,4.69425 L15.8125,7.5625" id="Stroke-9" stroke-width="1.5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

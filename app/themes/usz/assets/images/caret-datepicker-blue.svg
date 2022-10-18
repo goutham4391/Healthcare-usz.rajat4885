@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="8px" viewBox="0 0 5 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>datepicker-arrow-right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="00---Styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="0-5-1-1-1-USZ-Forms-1024" transform="translate(-583.000000, -1223.000000)" stroke="#005EA8" stroke-width="2">
+            <g id="Group-2" transform="translate(294.000000, 1175.000000)">
+                <g id="Group-6" transform="translate(140.000000, 41.000000)">
+                    <g id="icons/dropdown/color" transform="translate(151.000000, 11.000000) rotate(-90.000000) translate(-151.000000, -11.000000) translate(146.000000, 6.000000)">
+                        <polyline id="Path-2" points="2 4 4.99903564 7 8 4"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

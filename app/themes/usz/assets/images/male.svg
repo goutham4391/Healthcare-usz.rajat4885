@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>usz-icon-gender-male</title>
+    <desc>Created with Sketch.</desc>
+    <g id="usz-icon-gender-male" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group" transform="translate(17.292893, 5.585786) rotate(135.000000) translate(-17.292893, -5.585786) translate(12.792893, 1.085786)" stroke="#005EA8" stroke-width="2">
+            <polyline id="Path-2" transform="translate(2.878680, 4.414214) scale(-1, 1) rotate(270.000000) translate(-2.878680, -4.414214) " points="-1.36396103 2.29289322 2.87867966 6.53553391 7.12132034 2.29289322"></polyline>
+            <line x1="4.58578644" y1="8.24264069" x2="5.29289322" y2="0.464466094" id="Line" transform="translate(4.500000, 4.500000) scale(-1, 1) rotate(270.000000) translate(-4.500000, -4.500000) "></line>
+        </g>
+        <circle id="Oval" stroke="#005EA8" stroke-width="2" cx="10.5" cy="14.5" r="6.5"></circle>
+    </g>
+</svg>

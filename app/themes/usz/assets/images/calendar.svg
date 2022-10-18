@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>usz-icon-calender-blue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="usz-icon-calender-blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2,5.30769231 C2,4.58497436 2.59644444,4 3.33333333,4 L20.6666667,4 C21.4026667,4 22,4.58497436 22,5.30769231 L22,19.6923077 C22,20.4150256 21.4026667,21 20.6666667,21 L3.33333333,21 C2.59644444,21 2,20.4150256 2,19.6923077 L2,5.30769231 Z" id="Stroke-1" stroke="#005EA8" stroke-width="1.5"></path>
+        <line x1="7" y1="6" x2="7" y2="2" id="Stroke-3" stroke="#005EA8" stroke-width="1.5"></line>
+        <line x1="17" y1="6" x2="17" y2="2" id="Stroke-5" stroke="#005EA8" stroke-width="1.5"></line>
+        <polygon id="Stroke-7" stroke="#005EA8" stroke-width="1.5" points="6 17 10 17 10 13 6 13"></polygon>
+        <line x1="14" y1="9" x2="14" y2="17" id="Stroke-9" stroke="#005EA8" stroke-width="1.5"></line>
+        <polygon id="Stroke-10" stroke="#005EA8" stroke-width="1.5" points="10 17 18 17 18 9 10 9"></polygon>
+        <line x1="10" y1="13" x2="18" y2="13" id="Stroke-11" stroke="#005EA8" stroke-width="1.5"></line>
+    </g>
+</svg>

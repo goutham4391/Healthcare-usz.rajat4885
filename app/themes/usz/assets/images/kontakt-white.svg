@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>usz-icon-kontakt-blue</title>
+    <g id="usz-icon-kontakt-blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-19" transform="translate(1.000000, 1.000000)" stroke="#FFFFFF" stroke-width="1.5">
+            <path d="M9.55555556,17.0569065 C8.69585185,17.0569065 8,16.3859065 8,15.5569065 L8,8.5 C8,7.671 8.69585185,7 9.55555556,7 L20.4444444,7 C21.3041481,7 22,7.671 22,8.5 L22,15.5569065 C22,16.3859065 21.3041481,17.0569065 20.4444444,17.0569065 L19.0247226,17.0569065 L19.0247226,21.0000309 L14.2222222,17.0569065 L9.55555556,17.0569065 Z" id="Stroke-1"></path>
+            <path d="M6,12 L3,15 L3,11 L1.5,11 C0.671,11 0,10.329 0,9.5 L0,1.5 C0,0.671 0.671,0 1.5,0 L16.5149902,0 C17.3439902,0 18.0149902,0.671 18.0149902,1.5 L18.0149902,6.5" id="Stroke-3"></path>
+        </g>
+    </g>
+</svg>

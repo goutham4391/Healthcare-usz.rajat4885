@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>burger-icon-white</title>
+    <desc>Created with Sketch.</desc>
+    <g id="burger-icon-white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="1" y1="7.5" x2="15" y2="7.5" id="Line-5-Copy" stroke="#FFFFFF" stroke-width="1.5" fill-rule="nonzero"></line>
+        <line x1="1" y1="12.5" x2="15" y2="12.5" id="Line-5-Copy-2" stroke="#FFFFFF" stroke-width="1.5" fill-rule="nonzero"></line>
+        <line x1="1" y1="2.5" x2="15" y2="2.5" id="Line-5" stroke="#FFFFFF" stroke-width="1.5" fill-rule="nonzero"></line>
+    </g>
+</svg>

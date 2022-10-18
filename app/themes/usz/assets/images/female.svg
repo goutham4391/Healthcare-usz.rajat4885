@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>usz-icon-gender-female</title>
+    <desc>Created with Sketch.</desc>
+    <g id="usz-icon-gender-female" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-13" transform="translate(5.000000, 2.000000)" stroke="#005EA8" stroke-width="2">
+            <circle id="Oval" cx="7" cy="7" r="7"></circle>
+            <line x1="7" y1="14" x2="7" y2="20" id="Line-2"></line>
+            <line x1="10" y1="18" x2="4" y2="18" id="Line-2"></line>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>search-icon-blue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="search-icon-blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icons/search/color" transform="translate(1.000000, 1.000000)" fill-rule="nonzero" stroke="#005EA8" stroke-width="2">
+            <circle id="Oval" cx="5.5" cy="5.5" r="5.5"></circle>
+            <line x1="9" y1="10" x2="13" y2="14" id="Line"></line>
+        </g>
+    </g>
+</svg>

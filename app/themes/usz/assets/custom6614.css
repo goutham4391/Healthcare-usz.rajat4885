@@ -1,0 +1,15 @@
+.footer-social__link--podcast {
+	background-image: url("dp-images/podcast-white.svg");
+	background-size: 1.875rem 1.875rem;
+}
+
+.footer-social__link--tiktok {
+	background-image: url("dp-images/tiktok-white.svg");
+	background-size: 1.875rem 1.875rem;
+}
+
+@media screen and (min-width: 768px) {
+	.footer__navs {
+		min-height: 35rem;
+	}
+}

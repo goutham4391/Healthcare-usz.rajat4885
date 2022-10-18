@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>usz-icon-info-active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="usz-icon-info-active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,22 C17.5226667,22 22,17.5226667 22,12 C22,6.47733333 17.5226667,2 12,2 C6.47733333,2 2,6.47733333 2,12 C2,17.5226667 6.47733333,22 12,22 Z" id="Stroke-5" stroke="#005EA8" stroke-width="1.5" fill="#005EA8" transform="translate(12.000000, 12.000000) scale(1, -1) translate(-12.000000, -12.000000) "></path>
+        <path d="M12,6.25 C11.586,6.25 11.25,6.586 11.25,7 C11.25,7.414 11.586,7.75 12,7.75 C12.414,7.75 12.75,7.414 12.75,7 C12.75,6.586 12.414,6.25 12,6.25" id="Stroke-1" stroke="#FFFFFF" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(12.000000, 7.000000) scale(1, -1) translate(-12.000000, -7.000000) "></path>
+        <line x1="12" y1="17" x2="12" y2="11" id="Stroke-3" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" transform="translate(12.000000, 14.000000) scale(1, -1) translate(-12.000000, -14.000000) "></line>
+    </g>
+</svg>

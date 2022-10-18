@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>usz-icon-alert-red</title>
+    <desc>Created with Sketch.</desc>
+    <g id="usz-icon-alert-red" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(10.086658, 4.086538)" stroke="#D20049" stroke-linecap="round">
+            <path d="M1.91334231,13.1634615 C1.49934231,13.1634615 1.16334231,13.4994615 1.16334231,13.9134615 C1.16334231,14.3274615 1.49934231,14.6634615 1.91334231,14.6634615 C2.32734231,14.6634615 2.66334231,14.3274615 2.66334231,13.9134615 C2.66334231,13.4994615 2.32734231,13.1634615 1.91334231,13.1634615" id="Stroke-1" fill="#D20049" stroke-linejoin="round"></path>
+            <line x1="1.91334231" y1="9.91346154" x2="1.91334231" y2="0.365384615" id="Stroke-3" stroke-width="1.5"></line>
+        </g>
+        <path d="M12,23 C18.0749333,23 23,18.0749333 23,12 C23,5.92506667 18.0749333,1 12,1 C5.92506667,1 1,5.92506667 1,12 C1,18.0749333 5.92506667,23 12,23 Z" id="Stroke-5" stroke="#D20049" stroke-width="1.5"></path>
+    </g>
+</svg>

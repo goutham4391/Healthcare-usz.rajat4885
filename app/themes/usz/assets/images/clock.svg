@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>usz-icon-time-blue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="usz-icon-time-blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icon/dropdown/blue" transform="translate(2.000000, 2.000000)" stroke="#005EA8" stroke-width="1.5">
+            <g id="Group">
+                <path d="M10,20 C15.5228571,20 20,15.5228571 20,10 C20,4.47714286 15.5228571,0 10,0 C4.47714286,0 0,4.47714286 0,10 C0,15.5228571 4.47714286,20 10,20 Z" id="Stroke-1"></path>
+                <path d="M10,11.4285714 C10.7885714,11.4285714 11.4285714,10.7895238 11.4285714,10 C11.4285714,9.21047619 10.7885714,8.57142857 10,8.57142857 C9.21142857,8.57142857 8.57142857,9.21047619 8.57142857,10 C8.57142857,10.7895238 9.21142857,11.4285714 10,11.4285714 Z" id="Stroke-3"></path>
+                <line x1="10" y1="8.57142857" x2="10" y2="3.57142857" id="Stroke-5"></line>
+                <line x1="11.01" y1="11.009619" x2="13.5709524" y2="13.5705714" id="Stroke-7"></line>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>arrow-right-blue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="arrow-right-blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group" transform="translate(1.000000, 1.000000)" stroke="#005EA8" stroke-width="1.5">
+            <polyline id="Path-2" transform="translate(6.000000, 4.000000) rotate(270.000000) translate(-6.000000, -4.000000) " points="2 2 5.99871419 6 10 2"></polyline>
+            <line x1="4" y1="8" x2="4" y2="1.8189894e-12" id="Line" transform="translate(4.000000, 4.000000) rotate(270.000000) translate(-4.000000, -4.000000) "></line>
+        </g>
+    </g>
+</svg>

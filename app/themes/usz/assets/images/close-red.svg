@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>close-icon-blue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="close-icon-blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group" transform="translate(0.500000, -0.000000)" stroke="#D80F55" stroke-width="2">
+            <line x1="7.5" y1="17" x2="7.5" y2="-1" id="Line" transform="translate(7.500000, 8.000000) rotate(315.000000) translate(-7.500000, -8.000000) "></line>
+            <line x1="7.28033009" y1="17.5303301" x2="7.28033009" y2="-0.469669914" id="Line" transform="translate(8.030330, 8.530330) rotate(45.000000) translate(-8.030330, -8.530330) "></line>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>social-icons-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <g id="social-icons-facebook" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/social/facebook/color" transform="translate(-1.000000, -1.000000)" fill="#005EA8">
+            <path d="M18,9.59995305 L14.5210303,9.59995305 L14.5210303,8.05955527 C14.5210303,7.33504271 15.0052168,7.16604369 15.3459407,7.16604369 L17.7815455,7.16604369 L17.7815455,3.9785119 L14.252853,3.968 C11.0526573,3.968 10.4453864,6.34449821 10.4453864,7.8654894 L10.4453864,9.59995305 L8,9.59995305 L8,12.8343841 L10.4453864,12.8343841 L10.4453864,22.5376772 L14.5210303,22.5376772 L14.5210303,12.8343841 L17.6600913,12.8343841 L18,9.59995305 Z" id="Stroke-1"></path>
+        </g>
+    </g>
+</svg>

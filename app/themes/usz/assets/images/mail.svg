@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>usz-icon-mailto-blue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="usz-icon-mailto-blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-26" transform="translate(2.000000, 2.000000)" stroke="#005EA8" stroke-width="1.5">
+            <path d="M18.85825,12.39175 L12.4999167,18.7500833 L9.37491667,19.3750833 L9.99991667,16.2500833 L16.35825,9.89175 C16.68825,9.56175 17.1374167,9.37508333 17.6049167,9.37508333 C18.07325,9.37508333 18.5215833,9.56175 18.8515833,9.89175 L18.85825,9.89841667 C19.1890833,10.22925 19.3749167,10.6775833 19.3749167,11.1450833 C19.3749167,11.6125833 19.1890833,12.06175 18.85825,12.39175 Z" id="Stroke-1"></path>
+            <path d="M9.375,13.125 L1.875,13.125 C1.185,13.125 0.625,12.565 0.625,11.875 L0.625,1.875 C0.625,1.185 1.185,0.625 1.875,0.625 L16.875,0.625 C17.565,0.625 18.125,1.185 18.125,1.875 L18.125,6.875" id="Stroke-3"></path>
+            <path d="M17.8425833,1.08316667 L11.0550833,6.304 C10.0650833,7.06566667 8.68508333,7.06566667 7.69425,6.304 L0.907583333,1.08316667" id="Stroke-5"></path>
+        </g>
+    </g>
+</svg>
